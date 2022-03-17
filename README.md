@@ -1,7 +1,7 @@
 # beam-go
 ## Steps to run the beam-go
 #### Download and Install
-* Download and Install GO from [(https://go.dev/doc/install](https://go.dev/doc/install)
+* Download and Install GO from [https://go.dev/doc/install](https://go.dev/doc/install)
 #### Check Version
 * After Downloading and Installing, Check your GO version using the command  `go version`
 #### Create a project and a Repository
