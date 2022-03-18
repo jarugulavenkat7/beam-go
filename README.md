@@ -7,7 +7,7 @@
 #### Create a project and a Repository
 * Create a project with name beam-go in your 44517 folder.
 * Create a git repo with exactly the same name of your project in local machine i.e beam-go.
-* In your folder, `run go mod init github.com/jarugulavenkat7/beam-go`
+* In your folder, run `go mod init github.com/jarugulavenkat7/beam-go`
 #### Get the SDK and the examples
 * command `go get -u github.com/apache/beam/sdks/v2/go/pkg/beam`
 #### Add the input file
