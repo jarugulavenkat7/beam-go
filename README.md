@@ -1,7 +1,7 @@
 # beam-go
 ## Steps to run the beam-go
 #### Download and Install
-* Download and Install GO from [(https://go.dev/doc/install](https://go.dev/doc/install)
+* Download and Install GO from [https://go.dev/doc/install](https://go.dev/doc/install)
 #### Check Version
 * After Downloading and Installing, Check your GO version using the command  `go version`
 #### Create a project and a Repository
@@ -15,5 +15,5 @@
 #### Run WordCount
 - To get wordcount.go run the command `go install github.com/apache/beam/sdks/v2/go/examples/wordcount`
 - If you get an error like "missing go.sum entry for module providing package" then run the command ` go get github.com/apache/beam/sdks/v2/go/pkg/beam/io/filesystem/gcs@v2.37.0`
-- To run the wordcount.go use the command `go run wordcount.go --input sample.txt --output counts`
+- To run the wordcount.go use the command `go run wordcount.go --input sample.txt --output jarugula_counts`
 - The output counts file will be generated in the project folder
